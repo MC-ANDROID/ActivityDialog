@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivityDialog</string>
+    <string-array name="list_entries">
+        <item>The some item</item>
+        <item>The some other item</item>
+        <item>Tha item three</item>
+        <item>Item</item>
+        <item>Some item</item>
+    </string-array>
+</resources>
